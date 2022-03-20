@@ -7,6 +7,10 @@ const Review = () => {
   const [index, setindex] = useState(0);
   const { name, job, image, text } = people[index];
 
+  //   after completing arrray at the end of array n then do next one
+  // then it will go to 1st person
+  // or in 1st one doning previous one then
+  // it will go back to last person
   const checkNumber = (number) => {
     if (number > people.length - 1) {
       return 0;
@@ -18,12 +22,14 @@ const Review = () => {
     return number;
   };
 
+  //<FaChevronright  functioning
   const nextPerson = () => {
     setindex((index) => {
       let newindex = index + 1;
       return checkNumber(newindex);
     });
   };
+  //   <FaChevronLeft  functioning
 
   const prevPerson = () => {
     setindex((index) => {
@@ -32,6 +38,7 @@ const Review = () => {
     });
   };
 
+  //surprise button functioning
   const randomPerson = () => {
     let randomnumber = Math.floor(Math.random() * people.length);
     if (randomnumber == index) {
