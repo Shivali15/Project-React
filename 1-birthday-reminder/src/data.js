@@ -1,0 +1,40 @@
+//array of people
+const data = [
+  {
+    // each people have object i.e id ,name .....
+    id: 1,
+    name: " Upasana Gole",
+    age: 29,
+    image:
+      "https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-2_ipcjws.jpg",
+  },
+  {
+    id: 2,
+    name: "Sonam Pandit",
+    age: 32,
+    image:
+      "https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-3_rxtqvi.jpg",
+  },
+  {
+    id: 3,
+    name: "Shantanu Kata",
+    age: 36,
+    image:
+      "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883423/person-4_t9nxjt.jpg",
+  },
+  {
+    id: 4,
+    name: "Rajesh Setty",
+    age: 34,
+    image:
+      "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883417/person-3_ipa0mj.jpg",
+  },
+  {
+    id: 5,
+    name: "Swarna Bhasin",
+    age: 29,
+    image:
+      "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-1_rfzshl.jpg",
+  },
+];
+export default data;
