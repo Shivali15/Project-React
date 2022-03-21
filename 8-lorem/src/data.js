@@ -16,10 +16,3 @@ I just told you! You've killed me! Fry! Quit doing the right thing, you jerk! Mi
   `Rutters Plate Fleet boom chandler Brethren of the Coast handsomely lookout marooned brigantine knave. Buccaneer gangway jack rum loot spyglass line Jack Tar fore gaff. Gaff topmast scuttle ballast swab draught measured fer yer chains dance the hempen jig Chain Shot yardarm.`,
 ];
 export default text;
-
-// Tortoises and turtles are among the oldest of all living reptiles and have evolved little in the 200 million years they have lived on Earth. There are around 89 species of Asian tortoises and turtles, all of which are threatened.
-// The Indian flapshell turtle is a freshwater species of turtle found in South Asia. The "flap-shelled" name comes from the presence of femoral flaps located on the plastron. These flaps of skin cover the limbs when turtles retract into the shell. The carapace of the Indian flapshell turtle viewed from above is broadly oval in adults but more circular in young, widest just anterior to hind limbs. The nose is short and stout; the nasal septum has no lateral ridge and the edges of the jaws are smooth. The claws are large and heavy and the tail is very short in both sexes.
-
-// Indian flapshell turtles are found in Pakistan, India, Sri Lanka, Nepal, Bangladesh (Indus and Ganges drainages), and Myanmar (Irrawaddy and Salween Rivers). They live in the shallow, quiet, often stagnant waters of rivers, streams, marshes, ponds, lakes and irrigation canals, and tanks. These turtles prefer waters with sand or mud bottoms because of their tendency to burrow.
-
-// Indian flapshell turtles are generally solitary and active during the day. They are very well adapted, both morphologically and behaviorally, to drought conditions. The turtles use mainly burrowing and moving from water hole to water hole to avoid desiccation. The femoral flaps that cover their retracted legs help them survive dry conditions. During a time of drought, the turtles enter a time of estivation in an attempt to survive the dry conditions. Although many turtles die during drought conditions, some individuals may survive up to 160 days.
